@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://tuytthuw.github.io/tuyetthu-report/"
 relativeURLs = true
 canonifyURLs = true
 publishDir = "public"
