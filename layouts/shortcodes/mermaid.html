@@ -1,0 +1,17 @@
+<div class="mermaid">
+{{ .Inner }}
+</div>
+{{ if .Page.Site.Params.mermaid }}
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.0/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ 
+    startOnLoad: true,
+    theme: 'default',
+    securityLevel: 'loose',
+    flowchart: { 
+      useMaxWidth: true,
+      htmlLabels: true
+    }
+  });
+</script>
+{{ end }}
