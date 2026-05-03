@@ -32,7 +32,7 @@ pre: " <b> 1.1. </b> "
 | **Thứ 3** | **Thảo luận dự án & Tìm hiểu AWS** <br> - Tham gia thảo luận và thống nhất ý tưởng dự án <br> - Tìm hiểu tổng quan về AWS và các dịch vụ cơ bản <br> - Tạo và thiết lập tài khoản AWS | ✅ Hoàn thành | [AWS Overview](https://aws.amazon.com/what-is-aws/) |
 | **Thứ 4** | **Thực hành AWS cơ bản** <br> - Thực hành một số bài lab đơn giản (IAM, S3) <br> - Làm quen với AWS CLI và thử thao tác một số lệnh cơ bản | ✅ Hoàn thành | [AWS CLI](https://aws.amazon.com/cli/)<br>[IAM](https://docs.aws.amazon.com/iam/)<br>[S3](https://docs.aws.amazon.com/s3/) |
 | **Thứ 5** | **Tìm hiểu Serverless** <br> - Tìm hiểu về kiến trúc serverless trong phát triển phần mềm <br> - Tìm hiểu sơ bộ về AWS SAM và cách deploy ứng dụng serverless đơn giản | ✅ Hoàn thành | [Serverless](https://aws.amazon.com/serverless/)<br>[AWS SAM](https://aws.amazon.com/serverless/sam/) |
-| **Thứ 6** | **Sự kiện & Học hỏi** <br> - Tham gia sự kiện "FCAJ Community Day" để học hỏi thêm về công nghệ <br> - Ghi chép các kiến thức học được | ✅ Hoàn thành | [AWS Community](https://aws.amazon.com/developer/community/) |
+| **Thứ 6** | **Học hỏi & Chuẩn bị** <br> - Tìm hiểu thêm về các dịch vụ AWS <br> - Chuẩn bị cho tuần tiếp theo | ✅ Hoàn thành | [AWS Services](https://aws.amazon.com/products/) |
 
 ### 🎓 Kiến thức đã học:
 

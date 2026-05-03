@@ -32,7 +32,7 @@ pre: " <b> 1.2. </b> "
 | **Wednesday** | **Learn DynamoDB & S3** <br> - Learn DynamoDB: NoSQL, partition key, sort key, GSI <br> - Learn S3: buckets, objects, storage classes <br> - Practice CRUD operations with DynamoDB | ✅ Completed | [DynamoDB](https://docs.aws.amazon.com/dynamodb/)<br>[S3](https://docs.aws.amazon.com/s3/) |
 | **Thursday** | **Learn AWS SAM & IaC** <br> - Learn AWS SAM (Serverless Application Model) <br> - Learn Infrastructure as Code (IaC) <br> - Install AWS CLI, SAM CLI, Docker <br> - Practice "Hello World" workshop with SAM | ✅ Completed | [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/) |
 | **Friday** | **Learn Next.js & UI Libraries** <br> - Learn Next.js App Router and routing system <br> - Learn shadcn/ui component library <br> - Learn Tailwind CSS utility-first framework <br> - Practice creating basic components | ✅ Completed | [Next.js](https://nextjs.org/)<br>[Shadcn/ui](https://ui.shadcn.com/)<br>[Tailwind CSS](https://tailwindcss.com/) |
-| **Sunday** | **Architecture Discussion & Event** <br> - Participate in contributing ideas for system architecture diagram <br> - Discuss tech stack and AWS services needed <br> - Participate in "AWS First Cloud AI Journey Community Day 2026" event | ✅ Completed | [AWS Architecture](https://aws.amazon.com/architecture/) |
+| **Saturday** | **Event & Architecture Discussion** <br> - Participate in "AWS First Cloud AI Journey Community Day 2026" event <br> - Participate in contributing ideas for system architecture diagram <br> - Discuss tech stack and AWS services needed | ✅ Completed | [AWS Architecture](https://aws.amazon.com/architecture/) |
 
 ### 🎓 Knowledge Learned:
 

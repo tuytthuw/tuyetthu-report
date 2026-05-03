@@ -32,7 +32,7 @@ pre: " <b> 1.2. </b> "
 | **Thứ 4** | **Học DynamoDB & S3** <br> - Tìm hiểu DynamoDB: NoSQL, partition key, sort key, GSI <br> - Tìm hiểu S3: buckets, objects, storage classes <br> - Thực hành CRUD operations với DynamoDB | ✅ Hoàn thành | [DynamoDB](https://docs.aws.amazon.com/dynamodb/)<br>[S3](https://docs.aws.amazon.com/s3/) |
 | **Thứ 5** | **Học AWS SAM & IaC** <br> - Tìm hiểu AWS SAM (Serverless Application Model) <br> - Tìm hiểu Infrastructure as Code (IaC) <br> - Cài đặt AWS CLI, SAM CLI, Docker <br> - Thực hành workshop "Hello World" với SAM | ✅ Hoàn thành | [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/) |
 | **Thứ 6** | **Học Next.js & UI Libraries** <br> - Tìm hiểu Next.js App Router và routing system <br> - Tìm hiểu shadcn/ui component library <br> - Tìm hiểu Tailwind CSS utility-first framework <br> - Thực hành tạo components cơ bản | ✅ Hoàn thành | [Next.js](https://nextjs.org/)<br>[Shadcn/ui](https://ui.shadcn.com/)<br>[Tailwind CSS](https://tailwindcss.com/) |
-| **Chủ nhật** | **Thảo luận kiến trúc & Sự kiện** <br> - Tham gia đóng góp ý tưởng cho sơ đồ kiến trúc hệ thống <br> - Thảo luận về tech stack và AWS services cần dùng <br> - Tham gia sự kiện "AWS First Cloud AI Journey Community Day 2026" | ✅ Hoàn thành | [AWS Architecture](https://aws.amazon.com/architecture/) |
+| **Thứ 7** | **Sự kiện & Thảo luận kiến trúc** <br> - Tham gia sự kiện "AWS First Cloud AI Journey Community Day 2026" <br> - Tham gia đóng góp ý tưởng cho sơ đồ kiến trúc hệ thống <br> - Thảo luận về tech stack và AWS services cần dùng | ✅ Hoàn thành | [AWS Architecture](https://aws.amazon.com/architecture/) |
 
 ### 🎓 Kiến thức đã học:
 

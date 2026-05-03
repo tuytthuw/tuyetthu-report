@@ -32,7 +32,7 @@ pre: " <b> 1.1. </b> "
 | **Tuesday** | **Project Discussion & Learn AWS** <br> - Participate in discussions and align project ideas <br> - Learn AWS overview and basic services <br> - Create and configure AWS account | ✅ Completed | [AWS Overview](https://aws.amazon.com/what-is-aws/) |
 | **Wednesday** | **Basic AWS Practice** <br> - Practice simple labs (IAM, S3) <br> - Get familiar with AWS CLI and try basic commands | ✅ Completed | [AWS CLI](https://aws.amazon.com/cli/)<br>[IAM](https://docs.aws.amazon.com/iam/)<br>[S3](https://docs.aws.amazon.com/s3/) |
 | **Thursday** | **Learn Serverless** <br> - Learn about serverless architecture in software development <br> - Study AWS SAM and how to deploy simple serverless applications | ✅ Completed | [Serverless](https://aws.amazon.com/serverless/)<br>[AWS SAM](https://aws.amazon.com/serverless/sam/) |
-| **Friday** | **Event & Learning** <br> - Participate in "FCAJ Community Day" event to learn more about technology <br> - Take notes on knowledge learned | ✅ Completed | [AWS Community](https://aws.amazon.com/developer/community/) |
+| **Friday** | **Learning & Preparation** <br> - Learn more about AWS services <br> - Prepare for next week | ✅ Completed | [AWS Services](https://aws.amazon.com/products/) |
 
 ### 🎓 Knowledge Learned:
 
