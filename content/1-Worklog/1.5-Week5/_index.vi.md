@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2026-04-13
+date: 2026-04-06
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.5. </b> "
 
 ## Tuần 5: AI Tutor Chat UI & Voice Integration Preparation
 
-**Ngày:** 13/04/2026 - 19/04/2026  
+**Ngày:** 06/04/2026 - 11/04/2026  
 **Tổng thời gian:** ~40 giờ
 
 ### Mục tiêu Tuần 5:

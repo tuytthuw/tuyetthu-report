@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 7"
-date: 2026-04-27
+date: 2026-04-20
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.7. </b> "
 
 ## Week 7: Statistics & Profile Management
 
-**Date:** 27/04/2026 - 03/05/2026  
+**Date:** 20/04/2026 - 25/04/2026  
 **Total Time:** ~24 hours (Monday, Wednesday, Friday)
 
 ### Week 7 Objectives:

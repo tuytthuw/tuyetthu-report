@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 1"
-date: 2026-03-16
+date: 2026-03-09
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.1. </b> "
 
 ## Tuần 1: Khởi động & Làm quen
 
-**Ngày:** 16/03/2026 - 20/03/2026  
+**Ngày:** 09/03/2026 - 14/03/2026  
 **Tổng thời gian:** ~40 giờ
 
 ### Mục tiêu Tuần 1:
@@ -22,7 +22,6 @@ pre: " <b> 1.1. </b> "
 * **AWS CLI:** Làm quen với AWS CLI và thử thao tác một số lệnh cơ bản
 * **Serverless:** Tìm hiểu về kiến trúc serverless trong phát triển phần mềm
 * **AWS SAM:** Tìm hiểu sơ bộ về AWS SAM và cách deploy ứng dụng serverless đơn giản
-* **Sự kiện:** Tham gia sự kiện "FCAJ Community Day" để học hỏi thêm về công nghệ
 
 ### Nội dung công việc:
 
@@ -69,10 +68,6 @@ pre: " <b> 1.1. </b> "
   * ✅ Hiểu cơ bản về cách triển khai ứng dụng serverless bằng SAM
   * ✅ Biết các khái niệm nền tảng về kiến trúc serverless
 
-* **Sự kiện:**
-  * ✅ Tham gia sự kiện "FCAJ Community Day"
-  * ✅ Học hỏi thêm về công nghệ và networking
-
 ### Bài học:
 
 * **Bài học 1: Làm quen môi trường từ sớm** - Tìm hiểu nội quy, quy định và team members ngay từ đầu giúp hòa nhập nhanh và làm việc hiệu quả.
@@ -97,7 +92,7 @@ pre: " <b> 1.1. </b> "
 | **Tổng thời gian** | ~40 giờ |
 | **Số ngày làm việc** | 5 ngày |
 | **Số dịch vụ AWS học** | 6 dịch vụ |
-| **Số hoạt động** | 10+ hoạt động |
+| **Số hoạt động** | 9 hoạt động |
 
 ---
 

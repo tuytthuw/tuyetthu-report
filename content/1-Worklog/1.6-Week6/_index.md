@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 6"
-date: 2026-04-20
+date: 2026-04-13
 weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.6. </b> "
 
 ## Week 6: Voice Integration & Flashcard Refinement
 
-**Date:** 20/04/2026 - 26/04/2026  
+**Date:** 13/04/2026 - 18/04/2026  
 **Total Time:** ~32 hours (Monday, Tuesday, Thursday, Friday)
 
 ### Week 6 Objectives:

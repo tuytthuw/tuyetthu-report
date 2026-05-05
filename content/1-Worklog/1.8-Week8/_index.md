@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 8"
-date: 2026-05-04
+date: 2026-04-27
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.8. </b> "
 
 ## Week 8: Final Deployment & Documentation
 
-**Date:** 04/05/2026 - 10/05/2026  
+**Date:** 27/04/2026 - 02/05/2026  
 **Total Time:** ~40 hours
 
 ### Week 8 Objectives:

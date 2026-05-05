@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 7"
-date: 2026-04-27
+date: 2026-04-20
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.7. </b> "
 
 ## Tuần 7: Statistics & Profile Management
 
-**Ngày:** 27/04/2026 - 03/05/2026  
+**Ngày:** 20/04/2026 - 25/04/2026  
 **Tổng thời gian:** ~24 giờ (Thứ 2, 4, 6)
 
 ### Mục tiêu Tuần 7:

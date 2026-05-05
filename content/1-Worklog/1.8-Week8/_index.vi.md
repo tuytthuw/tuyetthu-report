@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 8"
-date: 2026-05-04
+date: 2026-04-27
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.8. </b> "
 
 ## Tuần 8: Final Deployment & Documentation
 
-**Ngày:** 04/05/2026 - 10/05/2026  
+**Ngày:** 27/04/2026 - 02/05/2026  
 **Tổng thời gian:** ~40 giờ
 
 ### Mục tiêu Tuần 8:

@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 6"
-date: 2026-04-20
+date: 2026-04-13
 weight: 6
 chapter: false
 pre: " <b> 1.6. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.6. </b> "
 
 ## Tuần 6: Voice Integration & Flashcard Refinement
 
-**Ngày:** 20/04/2026 - 26/04/2026  
+**Ngày:** 13/04/2026 - 18/04/2026  
 **Tổng thời gian:** ~32 giờ (Thứ 2, 3, 5, 6)
 
 ### Mục tiêu Tuần 6:

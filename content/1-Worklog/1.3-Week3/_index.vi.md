@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 3"
-date: 2026-03-30
+date: 2026-03-23
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.3. </b> "
 
 ## Tuần 3: Backend Foundation & Authentication UI
 
-**Ngày:** 30/03/2026 - 05/04/2026  
+**Ngày:** 23/03/2026 - 28/03/2026  
 **Tổng thời gian:** ~40 giờ
 
 ### Mục tiêu Tuần 3:

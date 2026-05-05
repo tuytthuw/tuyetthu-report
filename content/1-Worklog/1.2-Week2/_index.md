@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 2"
-date: 2026-03-23
+date: 2026-03-16
 weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.2. </b> "
 
 ## Week 2: Serverless & Frontend Foundation
 
-**Date:** 23/03/2026 - 28/03/2026  
+**Date:** 16/03/2026 - 21/03/2026  
 **Total Time:** ~40 hours
 
 ### Week 2 Objectives:

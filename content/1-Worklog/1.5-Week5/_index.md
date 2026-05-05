@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 5"
-date: 2026-04-13
+date: 2026-04-06
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.5. </b> "
 
 ## Week 5: AI Tutor Chat UI & Voice Integration Preparation
 
-**Date:** 13/04/2026 - 19/04/2026  
+**Date:** 06/04/2026 - 11/04/2026  
 **Total Time:** ~40 hours
 
 ### Week 5 Objectives:

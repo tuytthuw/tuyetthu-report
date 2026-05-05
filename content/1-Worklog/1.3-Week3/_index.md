@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 3"
-date: 2026-03-30
+date: 2026-03-23
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.3. </b> "
 
 ## Week 3: Backend Foundation & Authentication UI
 
-**Date:** 30/03/2026 - 05/04/2026  
+**Date:** 23/03/2026 - 28/03/2026  
 **Total Time:** ~40 hours
 
 ### Week 3 Objectives:

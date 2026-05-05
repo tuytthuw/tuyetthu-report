@@ -1,6 +1,6 @@
 ---
 title: "Worklog Week 1"
-date: 2026-03-16
+date: 2026-03-09
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 1.1. </b> "
 
 ## Week 1: Kickoff & Getting Familiar
 
-**Date:** 16/03/2026 - 20/03/2026  
+**Date:** 09/03/2026 - 14/03/2026  
 **Total Time:** ~40 hours
 
 ### Week 1 Objectives:
@@ -22,7 +22,6 @@ pre: " <b> 1.1. </b> "
 * **AWS CLI:** Get familiar with AWS CLI and try basic commands
 * **Serverless:** Learn about serverless architecture in software development
 * **AWS SAM:** Study AWS SAM and how to deploy simple serverless applications
-* **Event:** Participate in "FCAJ Community Day" event to learn more about technology
 
 ### Work Content:
 
@@ -69,10 +68,6 @@ pre: " <b> 1.1. </b> "
   * ✅ Understand basic serverless application deployment with SAM
   * ✅ Know fundamental concepts about serverless architecture
 
-* **Event:**
-  * ✅ Participate in "FCAJ Community Day" event
-  * ✅ Learn more about technology and networking
-
 ### Lessons Learned:
 
 * **Lesson 1: Familiarize with Environment Early** - Understanding regulations, policies and team members from the beginning helps integrate quickly and work effectively.
@@ -97,7 +92,7 @@ pre: " <b> 1.1. </b> "
 | **Total Time** | ~40 hours |
 | **Working Days** | 5 days |
 | **AWS Services** | 6 services |
-| **Activities** | 10+ activities |
+| **Activities** | 9 activities |
 
 ---
 
